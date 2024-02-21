@@ -37,6 +37,39 @@ total_revenue(after_promotion). This report should help in evaluating the financ
 
 ![image](https://github.com/Arik-14/FMCG/assets/142299250/1a946fee-e83a-47a0-ba6b-f1ca38992e11)
 
+##  Insights & Key Findings
+1.Bengaluru generated the highest revenue 71M followed by Chennai city.
+2.Suggesting expand store count & strategically increase promotion activities during festive season in cities like Mangalore, Trivandrum, Visakhapatnam.
+3.Groceries & Staples category demonstrated a significant impact during promotional period reaching 77Million and Sold Units totaling 376.6 K units. Personal Care category yielded lower results, with at 1.7Million and Sold Units 31.5 K units.
+4.BOGOF & 500 Cashback drive significant sales and revenue growth whereas 50% Off & 33% Off have mixed impact on sales and revenue growth & 25% Off have negative impact.
+5.Sankranti campaign outperformed Diwali campaign, generating more revenue and sold units.
+
+![Screenshot 2024-02-18 142746](https://github.com/Arik-14/FMCG/assets/142299250/9398ee21-c0a0-4a36-b361-efa83f467f3e)
+
+![Screenshot 2024-02-19 192214](https://github.com/Arik-14/FMCG/assets/142299250/80db0f1d-d54c-4edc-bb82-c28c63f9df3c)
+
+![Screenshot 2024-02-19 192256](https://github.com/Arik-14/FMCG/assets/142299250/7d53b7fc-8d0e-4848-8a4b-9d658e5b602c)
+
+- ****
+  What I have learned from this Project:-
+
+1.Most important things I have learnt - gain domain knowledge about FMCG industry.
+
+2.Created 3 different dashboard - Performance Analysis,Promotion Analysis,Product & Category Analysis.
+
+3.Understanding the business(domain) knowledge according to the given data.
+
+4.Learnt about page navigation, bookmarks, filter.
+
+5.Learnt about telling data driven stories with this dashboard.
+
+6.Learnt DAX formula and its uses.
+
+
+
+
+
+
 
 
 
