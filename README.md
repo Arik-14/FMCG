@@ -19,7 +19,7 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 2. Generate a report that provides an overview of the number of stores in each city. The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence. The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
 
-![image](https://github.com/Arik-14/FMCG/assets/142299250/401b9052-c9b0-4518-856b-b2eac5b88602)
+![image](https://github.com/Arik-14/FMCG/assets/142299250/ba2883d8-ece7-4634-b3eb-448f2f7bd467)
 
 
 3.Generate a report that displays each campaign along with the total revenue generated before and after the campaign? The report includes three key fields: campaign_name, total__revenue(before_promotion),
