@@ -38,11 +38,11 @@ total_revenue(after_promotion). This report should help in evaluating the financ
 ![image](https://github.com/Arik-14/FMCG/assets/142299250/1a946fee-e83a-47a0-ba6b-f1ca38992e11)
 
 ##  Insights & Key Findings
-1.Bengaluru generated the highest revenue 71M followed by Chennai city.
-2.Suggesting expand store count & strategically increase promotion activities during festive season in cities like Mangalore, Trivandrum, Visakhapatnam.
-3.Groceries & Staples category demonstrated a significant impact during promotional period reaching 77Million and Sold Units totaling 376.6 K units. Personal Care category yielded lower results, with at 1.7Million and Sold Units 31.5 K units.
-4.BOGOF & 500 Cashback drive significant sales and revenue growth whereas 50% Off & 33% Off have mixed impact on sales and revenue growth & 25% Off have negative impact.
-5.Sankranti campaign outperformed Diwali campaign, generating more revenue and sold units.
+1. Bengaluru generated the highest revenue 71M followed by Chennai city.
+2. Suggesting expand store count & strategically increase promotion activities during festive season in cities like Mangalore, Trivandrum, Visakhapatnam.
+3. Groceries & Staples category demonstrated a significant impact during promotional period reaching 77Million and Sold Units totaling 376.6 K units. Personal Care category yielded lower results, with at 1.7Million and Sold Units 31.5 K units.
+4. BOGOF & 500 Cashback drive significant sales and revenue growth whereas 50% Off & 33% Off have mixed impact on sales and revenue growth & 25% Off have negative impact.
+5. Sankranti campaign outperformed Diwali campaign, generating more revenue and sold units.
 
 ![Screenshot 2024-02-18 142746](https://github.com/Arik-14/FMCG/assets/142299250/9398ee21-c0a0-4a36-b361-efa83f467f3e)
 
